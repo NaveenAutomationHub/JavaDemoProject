@@ -6,6 +6,8 @@ public class Tagging {
 
 
 		System.out.println("f1");
+		System.out.println("f2");
+
 	}
 
 }
